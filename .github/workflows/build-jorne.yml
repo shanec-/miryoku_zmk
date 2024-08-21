@@ -10,3 +10,7 @@ jobs:
     with:
       board: '["nice_nano_v2"]'
       shield: '["jorne_left","jorne_right"]'
+      alphas: '["qwerty"]'
+      extra: '["qwerty"]'
+      tap: '["qwerty"]'
+      nav: '["vi"]'
